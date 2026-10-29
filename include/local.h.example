@@ -1,0 +1,10 @@
+#pragma once
+
+// Copy this file to include/local.h and edit it. local.h is gitignored.
+
+#define PI_HOST "192.168.1.10"
+#define STARTOS_HOST "192.168.1.20"
+#define DEFAULT_ZIP "10001"
+#define DEFAULT_LAT "40.7484"
+#define DEFAULT_LON "-73.9967"
+#define DEFAULT_PLACE "New York"

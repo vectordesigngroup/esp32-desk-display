@@ -1,0 +1,12 @@
+{
+  "token": "replace-with-at-least-32-random-hex-characters",
+  "port": 8765,
+  "bitcoin_cli": "C:\\Program Files\\Bitcoin\\daemon\\bitcoin-cli.exe",
+  "bitcoin_dir": "",
+  "pi_host": "",
+  "pi_user": "",
+  "pi_key": "",
+  "startos_host": "",
+  "startos_user": "",
+  "startos_key": ""
+}

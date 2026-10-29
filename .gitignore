@@ -1,0 +1,7 @@
+.pio/
+include/secrets.h
+include/local.h
+bridge/bridge_config.json
+bridge/bridge.log
+bridge/__pycache__/
+*.jpg
